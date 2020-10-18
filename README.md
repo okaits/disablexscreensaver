@@ -1,0 +1,2 @@
+# disablexscreensaver
+disable xscreensaver
